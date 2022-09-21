@@ -7,13 +7,14 @@
 
 #main{
     /* border: 2px solid red; */
-   background: url(/MY_Portfolio/assets/images/portfolioNew.jpg);
+   background:url(/assets/images/portfolioNew.jpg);
+  
     
 }
 
 .small-box{
      
-  background: center url(../images/matrix3.jpg);
+  background: center url(/assets/images/matrix3.jpg);
    
         /* animation properties */ 
         animation-name: my-animation; 
